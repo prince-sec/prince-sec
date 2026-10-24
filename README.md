@@ -17,3 +17,4 @@ Preparing for SOC L1 role by documenting my daily learning journey and writing i
 - **Email:** princeghaziabad02@gmail.com
 
 *“Security is not a product, but a process.”*
+ 
