@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Prince! 👋
 
-<!--
-**prince-sec/prince-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Aspiring SOC Analyst | Blue Team Enthusiast
+I am a B.Com graduate transitioning into Cyber Security. I am passionate about Threat Detection, Incident Response, and Network Security. Currently, I am building my skills through hands-on labs and practical projects.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools I am learning:
+- **SIEM:** Splunk
+- **Network Security:** Nmap, Wireshark
+- **Operating Systems:** Kali Linux, Windows
+- **Platforms:** TryHackMe, LetsDefend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Goal:
+Preparing for SOC L1 role by documenting my daily learning journey and writing incident reports.
+
+### 📫 Connect with me:
+- **LinkedIn:** [Your LinkedIn Link] (  #####  )
+- **Email:** princeghaziabad02@gmail.com
+
+*“Security is not a product, but a process.”*
